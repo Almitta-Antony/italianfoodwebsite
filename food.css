@@ -4,20 +4,21 @@
 } */
 #d1{
     width: 100%;
-    height: 300px;
+    height: 150px;
     background-color: black;
     color: white;
     text-align: center;
     font-size: x-large;
 }
 img{
-    height: 185px;
-    width: 445px;
+    height: 65px;
+    width: 245px;
+    margin-top: 10px;
 }
 #d2{
     background-color: grey;
     width: 100%;
-    height: 75px;
+    height: 55px;
     color: white;
     margin-top: -20px;
 
@@ -34,14 +35,14 @@ li{
     margin-left: 60px;
 }
 #i1{
-    height: 1100px;
+    height: 600px;
     width: 100%;
-    margin-top: 50px;
+    margin-top: 0px;
 } 
 #a1{
-    margin-top: -475px;
+    margin-top: -455px;
     text-align: center;
-    font-size: 110px;
+    font-size: 80px;
     color: white;
 }
 #d4{
@@ -49,20 +50,21 @@ li{
     float: left;
 }
 #a2{
-    margin-top: 315px;
-    font-size: 60px;
-    margin-left: 130px;
+    margin-top: 135px;
+    font-size: 30px;
+    margin-left: 90px;
 }
 button{
-    height: 70px;
-    width: 210px;
-    margin-top: 10px;
-    font-size: 30px;
+    height: 40px;
+    width: 110px;
+    margin-top: 5px;
+    font-size: 20px;
     border: 1px black solid;
     border-radius: 60px;
-    padding-left: 10px;
-    margin-left: 120px;
+    padding-left: 2px;
+    margin-left: 85px;
     background-color: white;
+ 
 }
 
 button:hover{
@@ -74,141 +76,137 @@ button:hover{
 
 #i2{
     position: absolute;
-    margin-top: 650px;
-    height: 750px;
-    width: 850px;
-    left: 150px;
+    margin-top: 350px;
+    height: 300px;
+    width: 450px;
+    left: 50px;
 }
 #i2:hover{
-    height: 700px;
-    width: 800px;
-    border-radius: 450px;
+    scale: 1.05;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
 }
 #a3{
     position: absolute;
-    left: 150px;
-    margin-top: 1420px;
-    font-size: 50px;
+    left: 50px;
+    margin-top: 630px;
+    font-size: 30px;
     padding-top: 30px;
    cursor: pointer;
 }
 #i3{
     position: absolute;
-    margin-top: 650px;
-    height: 750px;
-    width: 850px;
-    left: 1090px; 
+    margin-top: 350px;
+    height: 300px;
+    width: 450px;
+    left: 550px; 
 
 }
 #i3:hover{
-    height: 700px;
-    width: 800px;
-    border-radius: 450px;
+    scale: 1.05;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
 }
 #a4{
     position: absolute;
-    left: 1090px;
-    margin-top: 1420px;
-    font-size: 50px;
+    left: 550px;
+    margin-top: 630px;
+    font-size: 30px;
     padding-top: 30px;
     cursor: pointer;
 }
 #i4{
     position: absolute;
-    margin-top: 650px;
-    height: 750px;
-    width: 850px;
-    left: 2030px;
+    margin-top: 350px;
+    height: 300px;
+    width: 450px;
+    left: 1050px;
     
 }
 #i4:hover{
-    height: 700px;
-    width: 800px;
-    border-radius: 450px;
+    scale: 1.05;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #a5{
     position: absolute;
-    left: 2030px;
-    margin-top: 1420px;
-    font-size: 50px;
+    left: 1050px;
+    margin-top: 630px;
+    font-size: 30px;
     padding-top: 30px;
     cursor: pointer;
 }
 #d6{ 
     background-color: rgb(235, 229, 229);
-    height: 400px;
+    height: 200px;
     width: 100%;
-    margin-top: 1580px;
+    margin-top: 730px;
     position: absolute;
     /* float: left; */
 
 } 
 .a6{
-    font-size: 100px;
-    margin-left: 250px;
+    font-size: 50px;
+    margin-left: 100px;
     font-weight: bold;
 }
 .a7{
-    font-size: 35px;
-    margin-left: 250px;
+    font-size: 25px;
+    margin-left: 100px;
     /* margin-top: -265px; */
     font-weight: lighter;
     text-transform: uppercase;
     position: absolute;
-    top: 200px;
+    top: 100px;
 }
 #i5{
-    height: 190px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
-    margin-left: 940px;
-    margin-top: -160px;
+    margin-left: 440px;
+    margin-top: -90px;
     position: absolute;
     float: left;
 }
 #i5:hover{
-    height: 250px;
-    width: 300px;
-    border-radius:400px ;
+    scale: 1.1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #i6{
-    height: 190px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
-    margin-left: 1360px;
-    margin-top: -160px;
+    margin-left: 640px;
+    margin-top: -90px;
     position: absolute;
     float: left;
 
 }
 #i6:hover{
-    height: 250px;
-    width: 300px;
-    border-radius:400px ;
+    scale: 1.1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #i7{
-    height: 190px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
-    margin-top: -160px;
-    margin-left: 1790px;
+    margin-top: -90px;
+    margin-left: 860px;
     position: absolute;
     float: left;
 
 
 }
 #i7:hover{
-    height: 250px;
-    width: 300px;
-    border-radius:400px ;
+ scale: 1.1;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #i8{
-    height: 190px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
-    margin-top: -160px;
-    margin-left: 2225px;
+    margin-top: -90px;
+    margin-left: 1080px;
     position: absolute;
     float: left;
 
@@ -216,59 +214,58 @@ button:hover{
 
 }
 #i8:hover{
-    height: 250px;
-    width: 300px;
-    border-radius:400px ;
+    scale: 1.1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 #i9{
-    height: 190px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
-    margin-top: -160px;
-    margin-left: 2650px;
+    margin-top: -90px;
+    margin-left: 1300px;
     position: absolute;
     float: left;
 
 }
 #i9:hover{
-    height: 250px;
-    width: 300px;
-    border-radius:400px ;
+    scale: 1.1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #a8{
-    margin-left: 1150px;
-    margin-top: -145px;
+    margin-left: 550px;
+    margin-top: -70px;
 }
 #a9{
-    margin-left: 1565px;
-    margin-top: -45px;
+    margin-left: 760px;
+    margin-top: -40px;
 }
 #a10{
-    margin-left: 1995px;
-    margin-top: -45px;
+    margin-left: 980px;
+    margin-top: -40px;
 }
 #a11{
-    margin-left: 2432px;
-    margin-top: -45px;
+    margin-left: 1200px;
+    margin-top: -40px;
 }
 #a12{
-    margin-left: 2858px;
-    margin-top: -75px;
+    margin-left: 1420px;
+    margin-top: -60px;
 }
 #d7{
-    height: 1000px;
+    height: 800px;
     width: 100%;
     background-color: black;
     position: absolute;
-    top: 3260px;
+    top: 1462px;
     background-image: url(./images/footer3.jpg);
     background-size: cover;
     /* transform-box: 500px; */
     opacity: 0.65;
 }
 #i10{
-    height: 185px;
-    width: 445px;
+    height: 55px;
+    width: 205px;
     margin-left: 42%;
 }
 #a13{
@@ -277,34 +274,34 @@ button:hover{
     font-size: 40px;
 }
 #i11{
-    height: 60px;
-    width: 60px;
+    height: 30px;
+    width: 30px;
     border-radius: 30px;
     margin-left: 40%;
     cursor: pointer;
 }
 #i12{
-    height: 60px;
-    width: 60px;
+    height: 30px;
+    width: 30px;
     border-radius: 30px;
     margin-left: 40px
     
 }
 #i13{
-    height: 60px;
-    width: 60px;
+    height: 30px;
+    width: 30px;
     border-radius: 30px;
     margin-left: 40px
 }
 #i14{
-    height: 60px;
-    width: 60px;
+    height: 30px;
+    width: 30px;
     border-radius: 30px;
     margin-left: 40px
 }
 #i15{
-    height: 60px;
-    width: 60px;
+    height: 30px;
+    width: 30px;
     border-radius: 30px;
     margin-left: 40px
 }
